@@ -4,7 +4,7 @@
 settings:
   update_interval: 300
   market_pairs:
-    - ETH/BTC
+    - ETH/USD
     - LTC/BTC
     - XMR/BTC
 
